@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习演示_掷骰子</string>
+    <string name="button">掷骰子</string>
+    <string name="textView2">恭喜！</string>
+</resources>
